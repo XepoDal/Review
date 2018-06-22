@@ -64,8 +64,26 @@
       <file leaf-file-name="TestOpenInfoPages.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestOpenInfoPages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeirClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/google/HeirClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/google/Game1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -73,8 +91,17 @@
       <file leaf-file-name="TestOpenAllGames.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestOpenAllGames.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="136">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/google/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -109,8 +136,8 @@
       <file leaf-file-name="TestGamePlayCommon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestGamePlayCommon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -171,8 +198,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/google/AboutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/google/HelpPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/google/SignInPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/google/HeirClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/google/TestOpenInfoPages.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestOpenAllGames.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestGameplay.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/google/MainPage.java" />
@@ -180,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/google/Game2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/google/Game4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/google/Game5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/google/GameObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestGamePlay.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestGamePlayIncorrectAnswers.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestGamePlayCorrectAnswers.java" />
@@ -191,6 +215,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestGamePlayHideShowOptionsKeys.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/google/Game1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/google/TestGamePlayCommon.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/google/HeirClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/google/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/google/TestOpenInfoPages.java" />
       </list>
     </option>
   </component>
@@ -202,10 +229,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2499" />
-    <option name="y" value="-15" />
-    <option name="width" value="717" />
-    <option name="height" value="396" />
+    <option name="x" value="2392" />
+    <option name="y" value="-27" />
+    <option name="width" value="574" />
+    <option name="height" value="317" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -542,7 +569,7 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990366" visible="true" weight="0.18550107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990366" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" sideWeight="0.5009634" side_tool="true" weight="0.18176973" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -784,13 +811,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/set_ups.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/HeirClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/HelpPage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/PageObject.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/SignInPage.java" />
@@ -798,7 +818,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/Game4.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/Game5.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/google/Game3.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/GameObject.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestGamePlayCorrectAnswers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -835,18 +854,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/Game1.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestGamePlayCommon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestOpenAllGames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -858,14 +869,42 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySecondFirstProject.iml" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestOpenInfoPages.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/AboutPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/HeirClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="85">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/AboutPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestOpenAllGames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/Game1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/google/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/google/TestOpenInfoPages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

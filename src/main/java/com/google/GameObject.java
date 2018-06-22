@@ -2,11 +2,11 @@ package com.google;
 
 public abstract class GameObject {
 
-    abstract void checkResult();
-    abstract void winClose();
-    abstract void timeOutTest(int summ);
-    abstract void timeOutTest();
-    abstract void incorrectAnswersTest(int summ);
+    abstract void checkResult();//rename checkGameResult
+    abstract void winClose();//rename clickCloseGame
+    abstract void timeOutTest(int summ);//rename waitGameTimeOut
+    abstract void timeOutTest();//rename waitGameTimeOut
+    abstract void incorrectAnswersTest(int summ);//rename enterIncorrectResult
     abstract void incorrectAnswersTest();
     abstract void correctAnswersTest(int breakpoint);
     abstract void correctAnswersTest();
