@@ -374,7 +374,7 @@ public class Game1 extends GameObject {
 
     public void checkButtonShowHideKeys() throws InterruptedException {
 
-        (new WebDriverWait(driver,100)).until(ExpectedConditions.visibilityOfElementLocated(num1));
+        (new WebDriverWait(driver,100)).until(ExpectedConditions.visibilityOfElementLocated(keys));
         assert (driver.findElement(keys).isDisplayed()) : "time on/off function error";
         driver.findElement(keys_img).click();
         driver.findElement(keys_img).click();
@@ -387,7 +387,7 @@ public class Game1 extends GameObject {
 
     public void checkButtonShowHideHero() throws InterruptedException {
 
-        (new WebDriverWait(driver,100)).until(ExpectedConditions.visibilityOfElementLocated(num1));
+        (new WebDriverWait(driver,100)).until(ExpectedConditions.visibilityOfElementLocated(image));
         assert (driver.findElement(image).isDisplayed()) : "time on/off function error";
         driver.findElement(image_img).click();
         driver.findElement(image_img).click();

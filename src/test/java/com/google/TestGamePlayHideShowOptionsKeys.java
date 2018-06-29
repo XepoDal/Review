@@ -1,6 +1,6 @@
 package com.google;
 
-public class TestGamePlayHideShowOptionsKeys extends HeirClass{
+public class TestGamePlayHideShowOptionsKeys extends InvisibleRun{
 
     public void testGamePlayHideShowOptionsKeys() {
         MainPage mainPage = new MainPage(driver);

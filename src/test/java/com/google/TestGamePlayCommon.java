@@ -1,6 +1,6 @@
 package com.google;
 
-public class TestGamePlayCommon extends HeirClass{
+public class TestGamePlayCommon extends InvisibleRun{
 
     public void testGamePlayCommon() {
         MainPage mainPage = new MainPage(driver);

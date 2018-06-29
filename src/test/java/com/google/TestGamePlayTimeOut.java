@@ -1,6 +1,6 @@
 package com.google;
 
-public class TestGamePlayTimeOut extends HeirClass{
+public class TestGamePlayTimeOut extends InvisibleRun{
 
     public void testGamePlayTimeOut() {
     MainPage mainPage = new MainPage(driver);

@@ -1,6 +1,6 @@
 package com.google;
 
-public class TestGamePlayCorrectAnswers extends HeirClass{
+public class TestGamePlayCorrectAnswers extends InvisibleRun{
 
     public void testGamePlayCorrectAnswers() {
         MainPage mainPage = new MainPage(driver);

@@ -1,6 +1,6 @@
 package com.google;
 
-public class TestOpenInfoPages extends HeirClass {
+public class TestOpenInfoPages extends InvisibleRun {
 
     public void testOpenAllInfoPages () {
         //replace into setUp

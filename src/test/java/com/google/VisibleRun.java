@@ -3,8 +3,11 @@ package com.google;
 import junit.framework.TestCase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
+
 //named incorrect
-public class HeirClass extends TestCase {
+public class VisibleRun extends TestCase {
     public WebDriver driver; // make privet and create getter
 
     public void setUp() {

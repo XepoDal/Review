@@ -62,6 +62,7 @@ public class MainPage extends PageObject{
         driver.findElement(open_reg).click();
     }
 
+
     public GameObject game1Open()
     {
         (new WebDriverWait(driver,10)).until(ExpectedConditions.visibilityOfElementLocated(game1));
